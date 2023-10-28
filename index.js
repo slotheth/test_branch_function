@@ -5,3 +5,7 @@ function paymentA() {
 function shopping() {
   console.log('SHOPPING na')
 }
+
+function featureB() {
+  console.log('B')
+}
