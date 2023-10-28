@@ -9,3 +9,7 @@ function shopping() {
 function featureA() {
   console.log('A')
 }
+
+function featureB() {
+  console.log('B')
+}
